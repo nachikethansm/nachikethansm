@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @nax
 - I’m an ethical hacker..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I do phishing attacks 
+- I’m looking to collaborate!
+- How to reach me ...
 
 <!---
 nachikethansm/nachikethansm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
